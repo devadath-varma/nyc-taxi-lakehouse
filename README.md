@@ -66,14 +66,4 @@ A trip is removed for the **first** reason that applies, so each removed trip is
 
 Exact duplicates (identical in all 19 TLC columns) are removed first.
 
-## Governance
 
-* Credit NYC TLC as the data source in notebooks, README and report.
-* No driver or passenger names; locations are taxi zones, not addresses. We do not try to identify anyone.
-* Tips are recorded for card payments only, so tip findings cover card trips only.
-* New York, 2023 only: results show patterns, not rules for Indian cities.
-* Databricks Free Edition is for learning only, not commercial use.
-
-## Working agreements
-
-See `docs/agile_approach.md`. Code was drafted with help from an AI assistant (Claude) and then tested, reviewed and run by the team; every member must be able to explain each step.
