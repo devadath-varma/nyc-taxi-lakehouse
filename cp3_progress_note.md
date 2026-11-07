@@ -8,7 +8,7 @@ title: "Checkpoint 3: Progress Note"
 
 
 
-1. **Bronze done.** We loaded 12 monthly Yellow Taxi files for 2023 and the zone lookup into Delta tables on Databricks, with fixed column types, a source file name and a load time: 38,310,226 trips in `bronze_taxi_trips`.
+1. **Bronze done.** We loaded 12 monthly Yellow Taxi files for 2023 and the zone lookup into Delta tables on Databricks, with fixed column types, a source file name and 38,310,226 trips in `bronze_taxi_trips`.
 2. **Silver done.** With PySpark we removed 2 duplicates, joined zone names, decoded payment and rate types, and added trip minutes, fare per minute, hour, weekday and month.
 
 
