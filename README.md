@@ -19,10 +19,7 @@ Job posting we are working towards: Cognizant, Returnship - Azure Data Engineer.
 
 ```
 notebooks/
-  01_bronze_load.ipynb                  Load raw TLC files into the bronze Delta tables
-  02_silver_clean_and_quality.ipynb     Clean, enrich, flag bad trips, write silver and quality log
-submission/
-  T03_CP3_Notebook.ipynb                Bronze + silver in one notebook (the file we submit)
+    T03_CP3_Notebook.ipynb                Bronze + silver in one notebook (the file we submit)
 docs/
   agile_approach.md                     Write-up: how we run the project the Agile way
   cp3_progress_note.md                  Five-line progress note for Checkpoint 3
