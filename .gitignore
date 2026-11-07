@@ -1,0 +1,11 @@
+# Raw data is large and is downloaded from NYC TLC, never committed
+*.parquet
+*.csv
+data/
+
+# Python / notebook / OS clutter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+.env
