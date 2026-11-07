@@ -1,6 +1,6 @@
 # NYC Yellow Taxi 2023 - Lakehouse Pipeline (Team T03)
 
-Big Data project for the ABDA Skill-Gap Capstone. We built a bronze, silver and gold pipeline in PySpark on Databricks Free Edition to answer one business question:
+We built a bronze, silver and gold pipeline in PySpark on Databricks Free Edition to answer one business question:
 
 > **Where and when does a New York taxi fleet earn the most?**
 
